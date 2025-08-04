@@ -109,5 +109,4 @@ As the sole UI/UX designer on the NeuraShield project, I led all aspects of desi
 
 ---
 
-## 📁 Project Structure
 
